@@ -1,0 +1,8 @@
+html body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  height: 100vh;
+  background: url("https://newevolutiondesigns.com/images/freebies/abstract-background-6.jpg") 50% fixed;
+  background-size: cover;
+}

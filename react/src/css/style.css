@@ -1,0 +1,54 @@
+.container {
+    background-color:white;
+    margin:0 auto;
+    margin-top:50px;
+    padding:25px;
+    border-radius:15px;
+    width:250px;
+    text-align:center;
+}
+
+/*form {
+    border: 3px solid #f1f1f1;
+}*/
+h1 {
+    color: #ff6699;
+    
+    text-align: center;
+}
+
+h2 {
+    color: #ff6699;
+    
+    text-align: center;
+    font-size: 50px;
+}
+
+div {
+    color:#ff6699;
+    text-align: center;
+
+}
+
+label {
+    /*width: 50px;*/
+    font-size: 20px;
+}
+
+button {
+    background-color:#6600ff;
+    
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.buttonGoLogin{
+        background-color:#6600ff;
+        text-align: center;
+        border-radius: 12px;
+        margin-right: 10px;
+        
+} 
